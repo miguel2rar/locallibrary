@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Base de datos local (la crearemos de cero en el servidor)
+db.sqlite3
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de entorno (contraseñas, etc.)
+.env
